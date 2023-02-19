@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### I'm Nima Yazdi,
-#### Software Engineer & Developer :computer:, Artificial intelligence Ph.D Stu :brain:
-#### Working on many platfom, such as .Net, NextJS, ReactJS, AI, Image Processing & etc. Developing, Contributing, Creating and Mentoring.
-##### 🚀 I'm finding all new ways.
+#### Software Engineer & Developer :computer:, Artificial intelligence Ph.D Student :brain: 🦾
+Working on many platfoms, such as **.Net**, **NextJS**, **ReactJS**, **AI**, **Image Processing** & etc. **Developing**, **Contributing**, **Creating** and **Mentoring**.
+#### 🚀 I'm finding all new ways.
 ______
 
 
