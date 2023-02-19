@@ -8,8 +8,18 @@
 
 My NuGet Packages:
 
-(https://www.nuget.org/packages/NiORM)[NiORM] : (https://github.com/nimayazdi93/NiORM) [repo]
+[NiORM](https://www.nuget.org/packages/NiORM) :  [repo](https://github.com/nimayazdi93/NiORM)
 
+[Nixcel](https://www.nuget.org/packages/Nixcel)
+
+[NiWFComponent](https://www.nuget.org/packages/NiWFComponent)
+
+
+You can find me on NuGet.org:
+[NuGet Profile](https://www.nuget.org/profiles/nimayazdi)
+
+
+Feel free to contribute! I'm excited to know what you know
 <!--
 **nimayazdi93/nimayazdi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
