@@ -1,4 +1,14 @@
 ### Hi there 👋
+#### I'm Nima Yazdi,
+##### Working on many platfom, such as .Net, NextJS, ReactJS & etc. Developing, Contributing, Creating and Mentoring
+
+
+📫 how to reach me: nima.yazdi93@gmail.com
+
+
+My NuGet Packages:
+
+(https://www.nuget.org/packages/NiORM)[NiORM] : (https://github.com/nimayazdi93/NiORM) [repo]
 
 <!--
 **nimayazdi93/nimayazdi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
