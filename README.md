@@ -44,7 +44,7 @@ ______
 ### I'm excited to know what you know. 💆‍♂️
 📡 You can reach me: 
 [![Gmail](https://img.shields.io/badge/gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nima.yazdi93@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-yazdi-50130a135/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-yazdi/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nimayazdi_)
 [![discord](https://img.shields.io/badge/Discord-5865f2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/nimayazdi#2205)
 
