@@ -1,6 +1,6 @@
 ## Hi, I'm Nima Yazdi 👋
 ####  :computer: Software Engineer & Developer, :brain: Artificial intelligence Ph.D Student 
-##### 👔 Head Of Developent at [<img src="https://github.com/nimayazdi93/nimayazdi93/blob/main/desna-logo.png?raw=true" width="25"/> DESNA](desna.ir)
+##### 👔 Head Of Developent at [<img src="https://github.com/nimayazdi93/nimayazdi93/blob/main/desna-logo.png?raw=true" width="25"/> DESNA](https://desna.ir)
 ⏳ Working on many platfoms, such as **.Net**, **NextJS**, **ReactJS**, **AI**, **Image Processing** & etc. **Developing**, **Contributing**, **Creating** and **Mentoring**.
 #### 🚀 I'm finding all new ways.
 ______
