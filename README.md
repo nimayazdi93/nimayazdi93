@@ -1,8 +1,14 @@
 ## Hi, I'm Nima Yazdi 👋
+
+
 ####  :computer: Software Engineer & Developer, :brain: Artificial intelligence Ph.D Student 
 ##### 👔 Head Of Developent at [<img src="https://github.com/nimayazdi93/nimayazdi93/blob/main/desna-logo.png?raw=true" width="25"/> DESNA](https://desna.ir)
 ⏳ Working on many platfoms, such as **.Net**, **NextJS**, **ReactJS**, **AI**, **Image Processing** & etc. **Developing**, **Contributing**, **Creating** and **Mentoring**.
 #### 🚀 I'm finding all new ways.
+_____
+<img src="https://github-readme-stats.vercel.app/api?username=nimayazdi93&show_icons=true&locale=en&repo=convoychat&theme=react" height="200"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimayazdi93&show_icons=true&theme=react" height="200"/>
+
+
 ______
 
 ## 🛠 Skills
@@ -20,6 +26,8 @@ ______
 
 ##### 🧠 Artificial Intelegence
 Machin Learning , Image Processing , Data Mining , Data Clustering
+
+
 ______
 
 <a href="https://www.nuget.org/profiles/nimayazdi"><img src="https://www.nuget.org/Content/gallery/img/logo-footer.svg" alt= "Nuget" width="70"  ></a> 
