@@ -1,3 +1,5 @@
+
+
 ## Hi, I'm Nima Yazdi <img src="http://desna.ir:1402/emojies/hi.png" width="20px"/>
 
 
@@ -6,6 +8,9 @@
 ⏳ Working on many platfoms, such as **.Net**, **NextJS**, **ReactJS**, **AI**, **Image Processing** & etc. **Developing**, **Contributing**, **Creating** and **Mentoring**.
 #### <img src="http://desna.ir:1402/emojies/shuttle.png" width="20px"/> I'm finding all new ways.
 _____
+ <a href="https://app.daily.dev/nimayazdi"><img src="https://api.daily.dev/devcards/v2/teWRpz8fRD8kL0NuhK7Jm.png?r=2a6&type=default" width="356" alt="Nima Yazdi's Dev Card"/></a>
+_____
+
 <img src="https://github-readme-stats.vercel.app/api?username=nimayazdi93&show_icons=true&locale=en&repo=convoychat&theme=react" height="200"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimayazdi93&show_icons=true&theme=react" height="200"/>
 
 
@@ -57,7 +62,8 @@ ______
 [![discord](https://img.shields.io/badge/Discord-5865f2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/nimayazdi#2205)
 
 
- 
+
+
  
 
  
