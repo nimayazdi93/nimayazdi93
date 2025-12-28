@@ -23,9 +23,11 @@ ______
 ![NextJS](https://img.shields.io/badge/NextJS-4e2acd.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498db.svg?style=for-the-badge&logo=xamarin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-red?logo=microsoft-sql-server&style=for-the-badge)
+![Mongo](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+
 <!-- C# , Python , JavaScript , HTML , CSS , SQL ,  ASP.Net , NextJS , ReactJS , Xamarin , WindowsForms  -->
 
-##### <img src="http://desna.ir:1402/emojies/brain.png" width="30px"/> Artificial Intelegence
+##### 🤖 Artificial Intelegence
 Machin Learning , Image Processing , Data Mining , Data Clustering
 
 
